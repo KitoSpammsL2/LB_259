@@ -7,3 +7,22 @@ Dieser Datensatz enthält strukturierte klinische und diagnostische Patientendat
 ## Datenschutz
 
 Der Datensatz enthält keine personenbezogenen Informationen wie Namen, Adressen oder Identifikationsnummern. Es handelt sich ausschliesslich um anonymisierte medizinische Messwerte. Dadurch besteht kein direkter Personenbezug und kein relevantes Datenschutzrisiko. Der Datensatz ist unter der Lizenz CC BY-SA 4.0 veröffentlicht und darf für akademische und Ausbildungszwecke verwendet werden.
+
+
+## Datenbeschreibung und Explorative Datenanalyse
+
+Im Rahmen dieser Leistungsbewertung wird ein Datensatz zur Vorhersage von Herzkrankheiten analysiert.
+
+Der Datensatz enthält klinische und diagnostische Messwerte von Patienten wie Alter, Blutdruck, Cholesterinwerte sowie Ergebnisse aus Belastungstests und EKG-Untersuchungen.
+
+Ziel dieser Analyse ist es, die Struktur und Eigenschaften des Datensatzes zu untersuchen und eine geeignete Zielvariable für ein späteres Machine-Learning-Modell zu definieren.
+
+Die explorative Datenanalyse umfasst:
+
+- Überblick über die Datenstruktur
+- Identifikation der Zielvariable
+- Unterscheidung zwischen numerischen und kategorischen Merkmalen
+- Berechnung grundlegender statistischer Kennzahlen
+- Analyse von Verteilungen
+- Untersuchung von Korrelationen
+- Überprüfung der Datenqualität
